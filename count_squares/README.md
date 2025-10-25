@@ -1,1 +1,1 @@
-Given a number n, determine whether it is a prime number or not. Note: A prime number is a number greater than 1 that has no positive divisors other than 1 and itself.
+Given a positive integer n, find the number of perfect squares that are less than n in the sample space of perfect squares. The sample space consists of all perfect squares starting from 1 (i.e., 1, 4, 9, 16, 25, …)
